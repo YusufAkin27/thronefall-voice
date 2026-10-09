@@ -3,3 +3,6 @@ body{margin:0;background:var(--ink);color:var(--parch);font:17px/1.6 Georgia,ser
 main{max-width:760px;margin:0 auto;padding:32px 20px 64px}
 h1{color:var(--gold);font-size:28px;margin:0 0 4px}h2{color:var(--gold);font-size:20px;margin-top:28px}
 a{color:var(--gold)}.meta{opacity:.8;font-size:15px}hr{border:0;border-top:1px solid #4a3a2a;margin:24px 0}
+code{font-size:15px;background:#2a2018;padding:1px 4px;border-radius:3px;overflow-wrap:anywhere}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:15px}th,td{border:1px solid #4a3a2a;padding:6px 8px;text-align:left;vertical-align:top}th{color:var(--gold)}
+li{margin:4px 0}
